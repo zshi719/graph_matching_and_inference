@@ -1,0 +1,2 @@
+Number of Vertices,Clique Size,Clique Vertices after Removal,Clique Vertices after Inclusion,Time to execute Generation,Time to execute Exclusion Phase,Time to execute Inclusion Phase,Total Run time
+100,5,"[28, 41, 58, 78]","[28, 41, 58, 78, 16]",0.466,2.5819849967956543,0.0002617835998535156,3.157545804977417
