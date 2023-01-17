@@ -1,2 +1,2 @@
 Number of Vertices,Clique Size,Planted Clique,Clique Vertices after Inclusion,Run Time (graph generation) ,Run Time (exclusion),Run Time (inclusion),Total Run time,Success
-100,5,"[12, 23, 49, 52, 76]","[13, 27, 28, 73, 98]",0.38,1.5382070541381836,0.00011205673217773438,2.0026121139526367,0
+50,5,"[12, 23, 49, 52, 76]","[14, 17, 22, 38, 39]",0.048,0.10766410827636719,0.00011181831359863281,0.23654413223266602,0
